@@ -1,0 +1,30 @@
+# Local Database & Secrets
+backend/supervisor.db
+backend/.env
+.env
+.env.local
+
+# Executables & Large Binaries
+bin/
+
+# Python Build / Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+.pytest_cache/
+
+# Node Build / Packages
+node_modules/
+.next/
+out/
+build/
+
+# IDE & OS Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
